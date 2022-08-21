@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2024" alt="souvik2024" /></a> </p>
 
-- 🔭 I’m currently working on **Postman Student API**
+- 🔭 I’m currently working on **Co-lead at Google Developer Student Clubs - IEM**
 
 - 🌱 I’m currently learning **Java , Python advance**
 
