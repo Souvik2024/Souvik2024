@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik Sarkar</h1>
-<h3 align="center">1st Year CSE Student at IEM, Kolkata</h3>
+<h3 align="center">2nd Year CSE Student at IEM, Kolkata</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
